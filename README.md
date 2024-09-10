@@ -3,6 +3,10 @@
 💫 About Me:
 Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy apasionado por aprender nuevas habilidades y resolver problemas. Disfruto crear nuevas aplicaciones y desarrollar herramientas innovadoras.
 
+
+
+
+
 💻 My Stack:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -17,6 +21,10 @@ Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
 </div>
 
+
+
+
+
 🛠️ Tools I Work With:
 <div>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -24,6 +32,9 @@ Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
+
+
+
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
