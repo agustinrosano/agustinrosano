@@ -1,13 +1,11 @@
-## Hi there 👋
+# 💫 About Me
 
-💫 About Me:
-Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy apasionado por aprender nuevas habilidades y resolver problemas. Disfruto crear nuevas aplicaciones y desarrollar herramientas innovadoras.
+Soy **Desarrollador Front-End** con experiencia en aplicaciones nativas y web. Estoy apasionado por aprender nuevas habilidades y resolver problemas. Disfruto crear nuevas aplicaciones y desarrollar herramientas innovadoras.
 
+---
 
+# 💻 My Stack:
 
-
-
-💻 My Stack:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -21,11 +19,10 @@ Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
 </div>
 
+---
 
+# 🛠️ Tools I Work With:
 
-
-
-🛠️ Tools I Work With:
 <div>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -33,8 +30,24 @@ Soy Desarrollador Front-End con experiencia en aplicaciones nativas y web. Estoy
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
 
+---
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-rosano-272542204/)
 
 
+---
 
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+
+# 📊 My Skills:
+
+| Skill           | Proficiency |
+|-----------------|-------------|
+| React JS        | ![90%](https://progress-bar.dev/95) |
+| Python          | ![70%](https://progress-bar.dev/60) |
+| Node.js         | ![60%](https://progress-bar.dev/60) |
+| Firebase        | ![85%](https://progress-bar.dev/95) |
+| CSS/HTML        | ![95%](https://progress-bar.dev/95) |
+| C#              | ![40%](https://progress-bar.dev/40) |
+
